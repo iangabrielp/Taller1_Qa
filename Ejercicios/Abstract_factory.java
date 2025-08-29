@@ -1,4 +1,4 @@
-package Creacional;
+package Ejercicios;
 
 interface Education {
     String details();
@@ -99,7 +99,7 @@ class CV {
 }
 
 
-public class abstract_factory {
+public class Abstract_factory {
     public static void main(String[] args) {
         String cvType = "Student"; 
         CVFactory factory;
